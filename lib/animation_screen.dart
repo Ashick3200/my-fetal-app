@@ -677,7 +677,7 @@ class _AnimationScreenState extends State<AnimationScreen>
                           child: Column(
                             children: [
                               Image.asset(
-                                'assets/images/ashick_lab_logo.jpg',
+                                'assets/images/ashick_lab_logo.png',
                                 height: 115,
                                 width: double.infinity,
                                 fit: BoxFit.contain,

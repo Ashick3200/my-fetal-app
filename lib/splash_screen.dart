@@ -64,7 +64,6 @@ class SplashScreen extends StatelessWidget {
               children: [
                 const Spacer(flex: 7),
 
-                // Logo mattum 60 pixels mela move aagum
                 Transform.translate(
                   offset: const Offset(0, -60),
                   child: Image.asset(
@@ -95,7 +94,12 @@ class SplashScreen extends StatelessWidget {
                   },
                 ),
 
-                const Spacer(flex: 3),
+                const SizedBox(height: 22),
+
+                
+            
+
+                const Spacer(flex: 2),
               ],
             ),
           ),

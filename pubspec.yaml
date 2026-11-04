@@ -28,7 +28,7 @@ flutter:
   assets:
     - assets/images/logo.png
     - assets/images/logo_transparent.png
-    - assets/images/ashick_lab_logo.jpg
+    - assets/images/ashick_lab_logo.png
     - assets/videos/
 
 flutter_launcher_icons:
