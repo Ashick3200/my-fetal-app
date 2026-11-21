@@ -100,13 +100,13 @@ flutter build apk --release
 ## 📱 App Screenshots
 
 ### Splash Screen
-![MY FETAL Splash Screen](splash.png)
+<img src="splash.png" width="220" alt="MY FETAL Splash Screen">
 
 ### Data Entry Screen
-![MY FETAL Data Entry](data.png)
+<img src="data.png" width="220" alt="MY FETAL Data Entry Screen">
 
 ### Baby Development Screen
-![MY FETAL Baby Journey](3dpic.png)
+<img src="3dpic.png" width="220" alt="MY FETAL Baby Development Screen">
 
 
 ## ⚠️ Medical Disclaimer
