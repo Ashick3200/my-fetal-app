@@ -95,9 +95,8 @@ flutter run
 ```
 
 ### Build APK
-
-```bash
 flutter build apk --release
+
 ## 📱 App Screenshots
 
 ### Splash Screen
@@ -108,7 +107,7 @@ flutter build apk --release
 
 ### Baby Development Screen
 ![MY FETAL Baby Journey](3dpic.png)
-```
+
 
 ## ⚠️ Medical Disclaimer
 
