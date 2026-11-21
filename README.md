@@ -98,6 +98,16 @@ flutter run
 
 ```bash
 flutter build apk --release
+## 📱 App Screenshots
+
+### Splash Screen
+![MY FETAL Splash Screen](splash.png)
+
+### Data Entry Screen
+![MY FETAL Data Entry](data.png)
+
+### Baby Development Screen
+![MY FETAL Baby Journey](3dpic.png)
 ```
 
 ## ⚠️ Medical Disclaimer
